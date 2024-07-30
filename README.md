@@ -1,3 +1,3 @@
-README.MD
+README.md
 
- HI THERE
+  Hi there
